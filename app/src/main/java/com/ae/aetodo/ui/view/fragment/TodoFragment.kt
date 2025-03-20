@@ -69,7 +69,7 @@ class TodoFragment : Fragment(), TodoInterface {
     private fun showAlertWithTextInputLayout(context: Context) {
         val textInputLayout = TextInputLayout(context)
         val input = TextInputEditText(context)
-        input.setInputType(InputType.TYPE_TEXT_FLAG_CAP_SENTENCES);
+        input.setInputType(InputType.TYPE_TEXT_FLAG_CAP_SENTENCES)
         textInputLayout.hint = "Todo"
         textInputLayout.endIconMode = TextInputLayout.END_ICON_CLEAR_TEXT
         textInputLayout.setPadding(50, 15, 50, 15)
