@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/todosFragment"
-        android:name="com.ae.aetodo.ui.view.fragment.TodosFragment"
+        android:name="com.ae.aetodo.ui.view.fragment.TodoFragment"
         android:label="TodosFragment" />
 </navigation>

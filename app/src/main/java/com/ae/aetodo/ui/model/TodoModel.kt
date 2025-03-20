@@ -1,16 +1,11 @@
 package com.ae.aetodo.ui.model
 
-class TodoModel(title: String, body: String, comment: String, createdAt: String) {
-    private var todoTitle: String = title
-    private var todoBody: String = body
-    private var todoComment: String = comment
-    private var todoCreatedAt = createdAt
+import com.ae.aetodo.database.table.TodoTable
 
-    fun getTitle(): String {
-        return todoTitle
-    }
+class TodoModel(todos: List<TodoTable>) {
+    private var todosList = todos
 
-    fun getBody(): String {
-        return todoBody
+    fun getTodosList(): List<TodoTable> {
+        return todosList
     }
 }
