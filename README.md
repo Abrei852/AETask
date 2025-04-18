@@ -1,9 +1,9 @@
-# AETodo
-### A simple todo app made in Kotlin using MVVM structure and Room Database
+# AETask
+### A simple task app made in Kotlin using MVVM structure and Room Database
 #### Current functionality: 
-- Show all todos from database
-- Create new todos
-- Mark todos as done (deletes from database)
+- Show all tasks from database
+- Create a new task
+- Mark tasks as done (deletes from database)
 ##
 ### To Try it out
 1. Download the project, extract it & open it up using Android Studio
