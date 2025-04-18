@@ -12,9 +12,11 @@
 ##
 
 ### Samples from emulatior
-![image](https://github.com/user-attachments/assets/f0bbfcf9-782e-4be0-ae44-401045c375f9)
-![image](https://github.com/user-attachments/assets/80c61b5e-1a43-4090-8f93-c4abf976ed11)
-![image](https://github.com/user-attachments/assets/2ba78a56-d181-4ecb-b2ea-a566b0b710ae)
+![image](https://github.com/user-attachments/assets/dac16728-f90c-4b3a-b4ff-a60c9985e97d)
+![image](https://github.com/user-attachments/assets/ecac74b6-49c4-444c-b4b4-debc63e27f8d)
+![image](https://github.com/user-attachments/assets/0aee60ce-4f40-478a-b0b2-207148adc157)
+
+APK: 
 
 
 
