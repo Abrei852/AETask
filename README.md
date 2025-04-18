@@ -1,5 +1,5 @@
 # AETask
-### A simple task app made in Kotlin using MVVM structure and Room Database
+### A simple task app made in Kotlin using Jetpack Compose and Room Database
 #### Current functionality: 
 - Show all tasks from database
 - Create a new task
@@ -14,13 +14,7 @@
 ##
 
 ### Samples from emulatior
-![image](https://github.com/user-attachments/assets/dac16728-f90c-4b3a-b4ff-a60c9985e97d)
-![image](https://github.com/user-attachments/assets/ecac74b6-49c4-444c-b4b4-debc63e27f8d)
-![image](https://github.com/user-attachments/assets/0aee60ce-4f40-478a-b0b2-207148adc157)
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/d173a58a-f56c-4ea5-8f76-60f93c6eac99)
+![image](https://github.com/user-attachments/assets/b3a8ab39-be11-49c3-b55e-ab67cc26ff77)
+![image](https://github.com/user-attachments/assets/b468d2bb-8a55-4e59-9590-5fe9ed1e5e1e)
+![image](https://github.com/user-attachments/assets/0044c087-45e2-4b2c-a9ee-2664f4a3a2e0)
