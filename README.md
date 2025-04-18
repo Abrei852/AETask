@@ -9,6 +9,8 @@
 1. Download the project, extract it & open it up using Android Studio
    
 2. You can then either run it on an emulator or on your physical device through Android Studio by clicking the green play button once the project is loaded
+
+3. Or Download apk directly and install it
 ##
 
 ### Samples from emulatior
@@ -16,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/ecac74b6-49c4-444c-b4b4-debc63e27f8d)
 ![image](https://github.com/user-attachments/assets/0aee60ce-4f40-478a-b0b2-207148adc157)
 
-APK: 
+APK: AETask.apk
 
 
 
