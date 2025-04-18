@@ -169,6 +169,8 @@ fun ShowAlertDialog(
             dismissButton = {
                 if (isAddTask) {
                     Button(onClick = onDismiss, text = "Cancel")
+                } else {
+                    Button(onClick = onDismiss, "No")
                 }
             },
             confirmButton = {
