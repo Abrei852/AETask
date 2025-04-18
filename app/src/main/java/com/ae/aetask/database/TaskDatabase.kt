@@ -23,7 +23,7 @@ abstract class TaskDatabase : RoomDatabase() {
             synchronized(this) {
                 instance = Room
                     .databaseBuilder(context, TaskDatabase::class.java, "task")
-                    .fallbackToDestructiveMigration()
+                    .fallbackToDestructiveMigration(false)
                     .build()
 
                 return instance!!
