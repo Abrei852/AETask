@@ -10,15 +10,14 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AETodo"
+        android:theme="@style/Theme.AETask"
         tools:targetApi="31">
         <activity
-            android:name="com.ae.aetask.ui.view.activity.MainActivity"
+            android:name=".ui.view.activity.MainActivity"
             android:exported="true"
-            android:theme="@style/Theme.AETodo">
+            android:theme="@style/Theme.AETask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
