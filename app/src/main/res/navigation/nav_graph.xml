@@ -2,10 +2,10 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/nav_graph"
-    app:startDestination="@id/todosFragment">
+    app:startDestination="@id/taskFragment">
 
     <fragment
-        android:id="@+id/todosFragment"
-        android:name="com.ae.aetodo.ui.view.fragment.TodoFragment"
-        android:label="TodosFragment" />
+        android:id="@+id/taskFragment"
+        android:name="com.ae.aetask.ui.view.fragment.TaskFragment"
+        android:label="TasksFragment" />
 </navigation>

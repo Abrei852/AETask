@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">AETodo</string>
-    <string name="new_todo">New Todo</string>
-    <string name="todos_list">List of todos</string>
-    <string name="todo_done">Mark todo as done</string>
+    <string name="app_name">AETask</string>
+    <string name="new_todo">New Task</string>
+    <string name="todos_list">List of tasks</string>
+    <string name="todo_done">Mark task as done</string>
 </resources>

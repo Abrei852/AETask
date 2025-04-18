@@ -7,15 +7,15 @@ plugins {
 }
 
 android {
-    namespace = "com.ae.aetodo"
+    namespace = "com.ae.aetask"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.ae.aetodo"
+        applicationId = "com.ae.aetask"
         minSdk = 27
         targetSdk = 35
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
