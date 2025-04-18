@@ -11,7 +11,7 @@
 2. You can then either run it on an emulator or on your physical device through Android Studio by clicking the green play button once the project is loaded
 
 3. Or Download apk below and install it
-   APK: [AETask.apk](https://github.com/Abrei852/AETask/blob/302f483901b4e85bedac3aab8392ec0f28ab85b9/AETask.apk)
+   [AETask.apk](https://github.com/Abrei852/AETask/blob/302f483901b4e85bedac3aab8392ec0f28ab85b9/AETask.apk)
 ##
 
 ### Samples from emulatior
